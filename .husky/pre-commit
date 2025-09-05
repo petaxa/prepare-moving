@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+pnpm run make-all
+# 生成物を自動ステージング
+git add docs/prepare-items.md
+git add docs/price.md
+git add docs/retailer.md
