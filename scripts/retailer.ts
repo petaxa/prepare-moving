@@ -51,7 +51,7 @@ const renderItem = (item: Ast[keyof Ast][number]): string[] => {
 const render = () => {
   const md: string[] = [];
 
-  md.push(`# 値段\n`);
+  md.push(`# どこでなにかう\n`);
   md.push(`\n`);
 
   retailer.forEach((name) => {
