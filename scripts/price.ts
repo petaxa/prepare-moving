@@ -1,6 +1,6 @@
 /** 値段 */
 
-import { data, purchaseTiming } from "../data/data";
+import { data, purchaseTiming } from "../data/data.ts";
 import path from "path";
 import fs from "fs";
 
@@ -73,7 +73,7 @@ const render = () => {
   md.push(`\n`);
 
   const output = md.join("").trimEnd() + "\n";
-  const outPath = path.resolve(__dirname, "../docs/price.md");
+  const outPath = path.resolve(import.meta.dirname, "../docs/price.md");
 
   // フォルダがなければ作成
   fs.mkdirSync(path.dirname(outPath), { recursive: true });

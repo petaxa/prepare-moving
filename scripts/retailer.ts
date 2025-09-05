@@ -1,6 +1,6 @@
 /** どこでなにかう */
 
-import { data, retailer } from "../data/data";
+import { data, retailer } from "../data/data.ts";
 import path from "path";
 import fs from "fs";
 
@@ -71,7 +71,7 @@ const render = () => {
   });
 
   const output = md.join("").trimEnd() + "\n";
-  const outPath = path.resolve(__dirname, "../docs/retailer.md");
+  const outPath = path.resolve(import.meta.dirname, "../docs/retailer.md");
 
   // フォルダがなければ作成
   fs.mkdirSync(path.dirname(outPath), { recursive: true });

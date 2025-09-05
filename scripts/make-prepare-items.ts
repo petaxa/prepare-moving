@@ -2,7 +2,7 @@
 
 import path from "path";
 import fs from "fs";
-import { category, data } from "../data/data";
+import { category, data } from "../data/data.ts";
 
 type Ast = {
   [minCategory in (typeof category)[keyof typeof category]["minCategory"][number]]: {
@@ -77,7 +77,7 @@ const render = () => {
   });
 
   const output = md.join("").trimEnd() + "\n";
-  const outPath = path.resolve(__dirname, "../docs/prepare-items.md");
+  const outPath = path.resolve(import.meta.dirname, "../docs/prepare-items.md");
 
   // フォルダがなければ作成
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
