@@ -413,7 +413,7 @@ export const data: Data[] = [
     category: "デバイス類",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "", url: "" },
+    item: { name: "Buffalo WSR-1500AX2L", url: "https://www.buffalo.jp/product/detail/wsr-1500ax2l.html" },
     prepared: false,
   },
   {

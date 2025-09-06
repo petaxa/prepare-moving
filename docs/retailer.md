@@ -22,7 +22,8 @@
 - 扇風機
   - 5,000円
 - WiFiルーター
-  - 10,000円
+  - [Buffalo WSR-1500AX2L](https://www.buffalo.jp/product/detail/wsr-1500ax2l.html)
+    - 10,000円
 - 洗濯機
   - 60,000円
 
