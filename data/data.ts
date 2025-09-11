@@ -398,11 +398,11 @@ export const data: Data[] = [
   },
   {
     name: "扇風機",
-    price: 5000,
+    price: 5500,
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "", url: "" },
+    item: { name: "YAMAZEN RLX-CP030", url: "https://book.yamazen.co.jp/product/detail/I00009140" },
     prepared: false,
   },
 

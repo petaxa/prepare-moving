@@ -20,7 +20,8 @@
 - ドライヤー
   - 35,000円
 - 扇風機
-  - 5,000円
+  - [YAMAZEN RLX-CP030](https://book.yamazen.co.jp/product/detail/I00009140)
+    - 5,500円
 - WiFiルーター
   - [Buffalo WSR-1500AX2L](https://www.buffalo.jp/product/detail/wsr-1500ax2l.html)
     - 10,000円
