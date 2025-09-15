@@ -19,6 +19,24 @@
     - 22,000円
 - ドライヤー
   - 35,000円
+- リビングシーリングライト
+  - [パネルシリーズにするか、スタンダードにするか...](https://panasonic.jp/light/products.html)
+    - 33,000円
+- キッチン電球
+  - [Panasonic パルック LED電球 プレミアX -昼白色 60W形](https://panasonic.jp/lamp/products/LDA7NDGSZ6F.html)
+    - 3,300円
+- トイレ電球
+  - [Panasonic パルック LED電球 プレミアX -温白色 40W形](https://panasonic.jp/lamp/products/LDA5WWDGSZ4F.html)
+    - 3,300円
+- 玄関電球
+  - [Panasonic ひとセンサタイプ -電球色 60W形](https://panasonic.jp/lamp/products/LDA8LGKUNS.html)
+    - 5,500円
+- 浴室電球
+  - [Panasonic パルック LED電球 プレミアX -電球色 60W形](https://panasonic.jp/lamp/products/LDA7LDGSZ6F.html)
+    - 3,300円
+- 洗面所電球
+  - [Panasonic パルック LED電球 プレミアX -昼白色 40W形](https://panasonic.jp/lamp/products/LDA4NDGSZ4F.html)
+    - 3,300円
 - 扇風機
   - [YAMAZEN RLX-CP030](https://book.yamazen.co.jp/product/detail/I00009140)
     - 5,500円
@@ -83,8 +101,6 @@
   - 3,000円
 - 生ごみのごみばこ
   - 1,500円
-- 電球
-  - 1,000円
 - 物干しラック
   - 3,000円
 - 洗濯カゴ
