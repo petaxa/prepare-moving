@@ -203,7 +203,7 @@ export const data: Data[] = [
   // --- キッチン周り / キッチン家電 ---
   {
     name: "冷蔵庫",
-    price: 50000,
+    price: 47861,
     category: "キッチン家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
@@ -211,11 +211,11 @@ export const data: Data[] = [
       name: "SHARP SJ-D15P",
       url: "https://jp.sharp/reizo/products/sjd15p/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "電子レンジ",
-    price: 50000,
+    price: 62454,
     category: "キッチン家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
@@ -223,19 +223,19 @@ export const data: Data[] = [
       name: "SHARP Healsio AX-UA30",
       url: "https://jp.sharp/range/products/axua30/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "炊飯器",
-    price: 26000,
+    price: 21804,
     category: "キッチン家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
     item: {
-      name: "Tiger JPV-S100",
-      url: "https://www.tiger-corporation.com/ja/jpn/product/rice-cooker/jpv-s/",
+      name: "Tiger JPW-M100KV",
+      url: "https://www.tiger-corporation.com/ja/jpn/product/rice-cooker/jpw-m/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "電気ケトル",
@@ -368,15 +368,15 @@ export const data: Data[] = [
   // --- リビング / リビング家電 ---
   {
     name: "掃除機",
-    price: 22000,
+    price: 29192,
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
     item: {
-      name: "日立 CV-KP90L",
-      url: "https://kadenfan.hitachi.co.jp/clean/lineup/cv-kp90l/",
+      name: "日立 CV-PBK91-N",
+      url: "https://kadenfan.hitachi.co.jp/support/clean/item/CV-PBK91/manual.html",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "ドライヤー",
@@ -461,7 +461,7 @@ export const data: Data[] = [
   },
   {
     name: "扇風機",
-    price: 5500,
+    price: 4877,
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
@@ -469,7 +469,7 @@ export const data: Data[] = [
       name: "YAMAZEN RLX-CP030",
       url: "https://book.yamazen.co.jp/product/detail/I00009140",
     },
-    prepared: false,
+    prepared: true,
   },
 
   // --- リビング / デバイス類 ---
@@ -599,12 +599,12 @@ export const data: Data[] = [
   // --- 洗濯 / 洗濯家電 ---
   {
     name: "洗濯機",
-    price: 60000,
+    price: 43282,
     category: "洗濯家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "", url: "" },
-    prepared: false,
+    item: { name: "AQUA AQW-S6RBK", url: "https://aqua-has.com/support/laundry_s/w_205/" },
+    prepared: true,
   },
 
   // --- 洗濯 / 洗濯用品 ---
