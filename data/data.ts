@@ -393,7 +393,10 @@ export const data: Data[] = [
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "パネルシリーズにするか、スタンダードにするか...", url: "https://panasonic.jp/light/products.html" },
+    item: {
+      name: "パネルシリーズにするか、スタンダードにするか...",
+      url: "https://panasonic.jp/light/products.html",
+    },
     prepared: false,
   },
   {
@@ -402,7 +405,10 @@ export const data: Data[] = [
     category: "キッチン家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "Panasonic パルック LED電球 プレミアX -昼白色 60W形", url: "https://panasonic.jp/lamp/products/LDA7NDGSZ6F.html" },
+    item: {
+      name: "Panasonic パルック LED電球 プレミアX -昼白色 60W形",
+      url: "https://panasonic.jp/lamp/products/LDA7NDGSZ6F.html",
+    },
     prepared: false,
   },
   {
@@ -411,7 +417,10 @@ export const data: Data[] = [
     category: "トイレ用品",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "Panasonic パルック LED電球 プレミアX -温白色 40W形", url: "https://panasonic.jp/lamp/products/LDA5WWDGSZ4F.html" },
+    item: {
+      name: "Panasonic パルック LED電球 プレミアX -温白色 40W形",
+      url: "https://panasonic.jp/lamp/products/LDA5WWDGSZ4F.html",
+    },
     prepared: false,
   },
   {
@@ -420,7 +429,10 @@ export const data: Data[] = [
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "Panasonic ひとセンサタイプ -電球色 60W形", url: "https://panasonic.jp/lamp/products/LDA8LGKUNS.html" },
+    item: {
+      name: "Panasonic ひとセンサタイプ -電球色 60W形",
+      url: "https://panasonic.jp/lamp/products/LDA8LGKUNS.html",
+    },
     prepared: false,
   },
   {
@@ -429,7 +441,10 @@ export const data: Data[] = [
     category: "入浴用品",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "Panasonic パルック LED電球 プレミアX -電球色 60W形", url: "https://panasonic.jp/lamp/products/LDA7LDGSZ6F.html" },
+    item: {
+      name: "Panasonic パルック LED電球 プレミアX -電球色 60W形",
+      url: "https://panasonic.jp/lamp/products/LDA7LDGSZ6F.html",
+    },
     prepared: false,
   },
   {
@@ -438,7 +453,10 @@ export const data: Data[] = [
     category: "入浴用品",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "Panasonic パルック LED電球 プレミアX -昼白色 40W形", url: "https://panasonic.jp/lamp/products/LDA4NDGSZ4F.html" },
+    item: {
+      name: "Panasonic パルック LED電球 プレミアX -昼白色 40W形",
+      url: "https://panasonic.jp/lamp/products/LDA4NDGSZ4F.html",
+    },
     prepared: false,
   },
   {
