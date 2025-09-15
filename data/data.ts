@@ -402,7 +402,10 @@ export const data: Data[] = [
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "YAMAZEN RLX-CP030", url: "https://book.yamazen.co.jp/product/detail/I00009140" },
+    item: {
+      name: "YAMAZEN RLX-CP030",
+      url: "https://book.yamazen.co.jp/product/detail/I00009140",
+    },
     prepared: false,
   },
 
@@ -413,7 +416,10 @@ export const data: Data[] = [
     category: "デバイス類",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "Buffalo WSR-1500AX2L", url: "https://www.buffalo.jp/product/detail/wsr-1500ax2l.html" },
+    item: {
+      name: "Buffalo WSR-1500AX2L",
+      url: "https://www.buffalo.jp/product/detail/wsr-1500ax2l.html",
+    },
     prepared: false,
   },
   {
