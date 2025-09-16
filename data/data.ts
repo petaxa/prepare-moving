@@ -107,11 +107,11 @@ export const data: Data[] = [
   },
   {
     name: "まな板",
-    price: 5000,
+    price: 1990,
     category: "調理器具",
     retailer: "ホームセンター",
     purchaseTiming: "now",
-    item: { name: "", url: "" },
+    item: { name: "ニトリ 軽量ひのきまな板 小", url: "https://www.nitori-net.jp/ec/product/8973327/?srsltid=AfmBOootn-1VXF0wBePRVQa5_UeqR14dHkOSL5deR2Ou16GOzv_6qSt_" },
     prepared: false,
   },
   {
@@ -123,6 +123,16 @@ export const data: Data[] = [
     item: { name: "", url: "" },
     prepared: false,
   },
+    {
+    name: "キッチンマット",
+    price: 2000,
+    category: "キッチン家具",
+    retailer: "ニトリ系",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: false,
+  },
+
 
   // --- キッチン周り / キッチン掃除用具 ---
   {
@@ -212,6 +222,24 @@ export const data: Data[] = [
       url: "https://jp.sharp/reizo/products/sjd15p/",
     },
     prepared: true,
+  },
+  {
+    name: "冷蔵庫耐震マット",
+    price: 1000,
+    category: "キッチン家具",
+    retailer: "ホームセンター",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: true,
+  },
+  {
+    name: "冷蔵庫耐震ツッパリ棒",
+    price: 2300,
+    category: "キッチン家具",
+    retailer: "ニトリ系",
+    purchaseTiming: "afterApril",
+    item: { name: "ニトリ 家具転倒防止ポール(サイズを見て検討)", url: "https://www.nitori-net.jp/ec/product/4977612140065s/" },
+    prepared: false,
   },
   {
     name: "電子レンジ",
@@ -361,7 +389,22 @@ export const data: Data[] = [
     category: "リビング家具",
     retailer: "ニトリ系",
     purchaseTiming: "afterApril",
-    item: { name: "", url: "" },
+    item: {
+      name: "ニトリ シングル 2つ折りヒノキすのこベッド",
+      url: "https://www.nitori-net.jp/ec/product/5630187s/",
+    },
+    prepared: false,
+  },
+  {
+    name: "物干しスタンド",
+    price: 3990,
+    category: "リビング家具",
+    retailer: "ニトリ系",
+    purchaseTiming: "now",
+    item: {
+      name: "ニトリ タオル掛け付きパネル型物干しスタンド",
+      url: "https://www.nitori-net.jp/ec/product/8500973s/",
+    },
     prepared: false,
   },
 
@@ -603,7 +646,10 @@ export const data: Data[] = [
     category: "洗濯家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
-    item: { name: "AQUA AQW-S6RBK", url: "https://aqua-has.com/support/laundry_s/w_205/" },
+    item: {
+      name: "AQUA AQW-S6RBK",
+      url: "https://aqua-has.com/support/laundry_s/w_205/",
+    },
     prepared: true,
   },
 
@@ -638,6 +684,27 @@ export const data: Data[] = [
   {
     name: "洗濯洗剤",
     price: 500,
+    category: "洗濯用品",
+    retailer: "ホームセンター",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: false,
+  },
+  {
+    name: "洗濯機バスタオルハンガー",
+    price: 2790,
+    category: "洗濯用品",
+    retailer: "ニトリ系",
+    purchaseTiming: "now",
+    item: {
+      name: "ニトリ マグネット伸縮洗濯機バスタオルハンガー",
+      url: "https://www.nitori-net.jp/ec/product/8530752s/",
+    },
+    prepared: false,
+  },
+  {
+    name: "洗濯機振動防止マット",
+    price: 1000,
     category: "洗濯用品",
     retailer: "ホームセンター",
     purchaseTiming: "now",
@@ -766,9 +833,12 @@ export const data: Data[] = [
     name: "トイレブラシ",
     price: 2000,
     category: "トイレ掃除",
-    retailer: "ホームセンター",
+    retailer: "ニトリ系",
     purchaseTiming: "now",
-    item: { name: "", url: "" },
+    item: {
+      name: "ニトリ 持ち運べる磁石収納トイレブラシ",
+      url: "https://www.nitori-net.jp/ec/product/8530625s/",
+    },
     prepared: false,
   },
   {
