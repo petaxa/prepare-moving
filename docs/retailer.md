@@ -12,7 +12,7 @@
   - [Tiger JPW-M100KV](https://www.tiger-corporation.com/ja/jpn/product/rice-cooker/jpw-m/)
     - 21,804円
 - 電気ケトル
-  - [Tiger PCV-A060](https://www.tiger-corporation.com/ja/jpn/product/kettle-pot/pcv-a/)
+  - [Tiger PCS-A080](https://www.tiger-corporation.com/ja/jpn/product/kettle-pot/pcs-a/)
     - 7,500円
 - 掃除機
   - [日立 CV-PBK91-N](https://kadenfan.hitachi.co.jp/support/clean/item/CV-PBK91/manual.html)
@@ -20,23 +20,8 @@
 - ドライヤー
   - 35,000円
 - リビングシーリングライト
-  - [パネルシリーズにするか、スタンダードにするか...](https://panasonic.jp/light/products.html)
-    - 33,000円
-- キッチン電球
-  - [Panasonic パルック LED電球 プレミアX -昼白色 60W形](https://panasonic.jp/lamp/products/LDA7NDGSZ6F.html)
-    - 3,300円
-- トイレ電球
-  - [Panasonic パルック LED電球 プレミアX -温白色 40W形](https://panasonic.jp/lamp/products/LDA5WWDGSZ4F.html)
-    - 3,300円
-- 玄関電球
-  - [Panasonic ひとセンサタイプ -電球色 60W形](https://panasonic.jp/lamp/products/LDA8LGKUNS.html)
-    - 5,500円
-- 浴室電球
-  - [Panasonic パルック LED電球 プレミアX -電球色 60W形](https://panasonic.jp/lamp/products/LDA7LDGSZ6F.html)
-    - 3,300円
-- 洗面所電球
-  - [Panasonic パルック LED電球 プレミアX -昼白色 40W形](https://panasonic.jp/lamp/products/LDA4NDGSZ4F.html)
-    - 3,300円
+  - [TOSHIBA NLEH08001B-LC](https://www.nvc-lighting.jp/products/ceiling-light/discontinued/2023/03/22187/)
+    - 6,800円
 - 扇風機
   - [YAMAZEN RLX-CP030](https://book.yamazen.co.jp/product/detail/I00009140)
     - 4,877円
@@ -60,11 +45,12 @@
 
 ## ニトリ系
 
+- 金属ボウル
+  - 1,000円
+- ホイッパー
+  - 1,000円
 - キッチンマット
   - 2,000円
-- 冷蔵庫耐震ツッパリ棒
-  - [ニトリ 家具転倒防止ポール(サイズを見て検討)](https://www.nitori-net.jp/ec/product/4977612140065s/)
-    - 2,300円
 - キッチンのテーブル
   - [セラミックカウンターテーブル](https://www.nitori-net.jp/ec/product/2110100009679s/)
     - 30,000円
@@ -103,24 +89,18 @@
   - [ニトリ 軽量ひのきまな板 小](https://www.nitori-net.jp/ec/product/8973327/?srsltid=AfmBOootn-1VXF0wBePRVQa5_UeqR14dHkOSL5deR2Ou16GOzv_6qSt_)
     - 1,990円
 - 鍋敷き
-  - 1,000円
+  - [パール金属 キッチンプレート](https://amzn.asia/d/fJTSLHV)
+    - 1,000円
+  - キッチントッププレートがいいっぽい
 - スポンジ
   - 100円
 - 食器用洗剤
-  - 500円
-- キッチン用布巾
-  - 500円
-- 皿を拭く用の布巾
   - 500円
 - 冷蔵庫耐震マット
   - 1,000円
 - カセットコンロ
   - 3,000円
 - でっかいゴミ箱
-  - 3,000円
-- 生ごみのごみばこ
-  - 1,500円
-- 物干しラック
   - 3,000円
 - 洗濯カゴ
   - 500円
@@ -129,7 +109,7 @@
 - 洗濯洗剤
   - 500円
 - 洗濯機振動防止マット
-  - 1,000円
+  - 2,000円
 - ボディソープ
   - 1,000円
   - 液体タイプがコスパいいらしい

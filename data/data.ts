@@ -58,7 +58,7 @@ export const data: Data[] = [
     retailer: "合羽橋系",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "手鍋",
@@ -67,7 +67,7 @@ export const data: Data[] = [
     retailer: "合羽橋系",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "ざる",
@@ -76,13 +76,31 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "ボウル",
     price: 1000,
     category: "調理器具",
     retailer: "ホームセンター",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: true,
+  },
+  {
+    name: "金属ボウル",
+    price: 1000,
+    category: "調理器具",
+    retailer: "ニトリ系",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: false,
+  },
+  {
+    name: "ホイッパー",
+    price: 1000,
+    category: "調理器具",
+    retailer: "ニトリ系",
     purchaseTiming: "now",
     item: { name: "", url: "" },
     prepared: false,
@@ -94,7 +112,7 @@ export const data: Data[] = [
     retailer: "合羽橋系",
     purchaseTiming: "afterApril",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "砥石",
@@ -111,8 +129,11 @@ export const data: Data[] = [
     category: "調理器具",
     retailer: "ホームセンター",
     purchaseTiming: "now",
-    item: { name: "ニトリ 軽量ひのきまな板 小", url: "https://www.nitori-net.jp/ec/product/8973327/?srsltid=AfmBOootn-1VXF0wBePRVQa5_UeqR14dHkOSL5deR2Ou16GOzv_6qSt_" },
-    prepared: false,
+    item: {
+      name: "ニトリ 軽量ひのきまな板 小",
+      url: "https://www.nitori-net.jp/ec/product/8973327/?srsltid=AfmBOootn-1VXF0wBePRVQa5_UeqR14dHkOSL5deR2Ou16GOzv_6qSt_",
+    },
+    prepared: true,
   },
   {
     name: "鍋敷き",
@@ -120,10 +141,14 @@ export const data: Data[] = [
     category: "調理器具",
     retailer: "ホームセンター",
     purchaseTiming: "now",
-    item: { name: "", url: "" },
+    item: {
+      name: "パール金属 キッチンプレート",
+      url: "https://amzn.asia/d/fJTSLHV",
+    },
+    memo: "キッチントッププレートがいいっぽい",
     prepared: false,
   },
-    {
+  {
     name: "キッチンマット",
     price: 2000,
     category: "キッチン家具",
@@ -133,7 +158,6 @@ export const data: Data[] = [
     prepared: false,
   },
 
-
   // --- キッチン周り / キッチン掃除用具 ---
   {
     name: "スポンジ",
@@ -142,7 +166,7 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "食器用洗剤",
@@ -151,20 +175,20 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "キッチン用布巾",
-    price: 500,
+    price: "もってく",
     category: "キッチン掃除用具",
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "皿を拭く用の布巾",
-    price: 500,
+    price: "もってく",
     category: "キッチン掃除用具",
     retailer: "ホームセンター",
     purchaseTiming: "now",
@@ -207,7 +231,7 @@ export const data: Data[] = [
     retailer: "Amazon",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
 
   // --- キッチン周り / キッチン家電 ---
@@ -231,15 +255,6 @@ export const data: Data[] = [
     purchaseTiming: "now",
     item: { name: "", url: "" },
     prepared: true,
-  },
-  {
-    name: "冷蔵庫耐震ツッパリ棒",
-    price: 2300,
-    category: "キッチン家具",
-    retailer: "ニトリ系",
-    purchaseTiming: "afterApril",
-    item: { name: "ニトリ 家具転倒防止ポール(サイズを見て検討)", url: "https://www.nitori-net.jp/ec/product/4977612140065s/" },
-    prepared: false,
   },
   {
     name: "電子レンジ",
@@ -272,10 +287,10 @@ export const data: Data[] = [
     retailer: "ビックカメラ",
     purchaseTiming: "now",
     item: {
-      name: "Tiger PCV-A060",
-      url: "https://www.tiger-corporation.com/ja/jpn/product/kettle-pot/pcv-a/",
+      name: "Tiger PCS-A080",
+      url: "https://www.tiger-corporation.com/ja/jpn/product/kettle-pot/pcs-a/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "カセットコンロ",
@@ -298,7 +313,7 @@ export const data: Data[] = [
       name: "セラミックカウンターテーブル",
       url: "https://www.nitori-net.jp/ec/product/2110100009679s/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "食器棚",
@@ -316,16 +331,7 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
-  },
-  {
-    name: "生ごみのごみばこ",
-    price: 1500,
-    category: "キッチン家具",
-    retailer: "ホームセンター",
-    purchaseTiming: "now",
-    item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
 
   // --- リビング / リビング家具 ---
@@ -363,7 +369,7 @@ export const data: Data[] = [
     retailer: "ニトリ系",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "靴入れる棚",
@@ -405,7 +411,7 @@ export const data: Data[] = [
       name: "ニトリ タオル掛け付きパネル型物干しスタンド",
       url: "https://www.nitori-net.jp/ec/product/8500973s/",
     },
-    prepared: false,
+    prepared: true,
   },
 
   // --- リビング / リビング家電 ---
@@ -432,75 +438,15 @@ export const data: Data[] = [
   },
   {
     name: "リビングシーリングライト",
-    price: 33000,
+    price: 6800,
     category: "リビング家電",
     retailer: "ビックカメラ",
     purchaseTiming: "now",
     item: {
-      name: "パネルシリーズにするか、スタンダードにするか...",
-      url: "https://panasonic.jp/light/products.html",
+      name: "TOSHIBA NLEH08001B-LC",
+      url: "https://www.nvc-lighting.jp/products/ceiling-light/discontinued/2023/03/22187/",
     },
-    prepared: false,
-  },
-  {
-    name: "キッチン電球",
-    price: 3300,
-    category: "キッチン家電",
-    retailer: "ビックカメラ",
-    purchaseTiming: "now",
-    item: {
-      name: "Panasonic パルック LED電球 プレミアX -昼白色 60W形",
-      url: "https://panasonic.jp/lamp/products/LDA7NDGSZ6F.html",
-    },
-    prepared: false,
-  },
-  {
-    name: "トイレ電球",
-    price: 3300,
-    category: "トイレ用品",
-    retailer: "ビックカメラ",
-    purchaseTiming: "now",
-    item: {
-      name: "Panasonic パルック LED電球 プレミアX -温白色 40W形",
-      url: "https://panasonic.jp/lamp/products/LDA5WWDGSZ4F.html",
-    },
-    prepared: false,
-  },
-  {
-    name: "玄関電球",
-    price: 5500,
-    category: "リビング家電",
-    retailer: "ビックカメラ",
-    purchaseTiming: "now",
-    item: {
-      name: "Panasonic ひとセンサタイプ -電球色 60W形",
-      url: "https://panasonic.jp/lamp/products/LDA8LGKUNS.html",
-    },
-    prepared: false,
-  },
-  {
-    name: "浴室電球",
-    price: 3300,
-    category: "入浴用品",
-    retailer: "ビックカメラ",
-    purchaseTiming: "now",
-    item: {
-      name: "Panasonic パルック LED電球 プレミアX -電球色 60W形",
-      url: "https://panasonic.jp/lamp/products/LDA7LDGSZ6F.html",
-    },
-    prepared: false,
-  },
-  {
-    name: "洗面所電球",
-    price: 3300,
-    category: "入浴用品",
-    retailer: "ビックカメラ",
-    purchaseTiming: "now",
-    item: {
-      name: "Panasonic パルック LED電球 プレミアX -昼白色 40W形",
-      url: "https://panasonic.jp/lamp/products/LDA4NDGSZ4F.html",
-    },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "扇風機",
@@ -526,7 +472,7 @@ export const data: Data[] = [
       name: "Buffalo WSR-1500AX2L",
       url: "https://www.buffalo.jp/product/detail/wsr-1500ax2l.html",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "充電ケーブル",
@@ -638,6 +584,24 @@ export const data: Data[] = [
     item: { name: "", url: "" },
     prepared: false,
   },
+  {
+    name: "BEENOS CULTURE BOOK",
+    price: "もってく",
+    category: "本",
+    retailer: "Amazon",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: false,
+  },
+  {
+    name: "7つの習慣",
+    price: "もってく",
+    category: "本",
+    retailer: "Amazon",
+    purchaseTiming: "now",
+    item: { name: "", url: "" },
+    prepared: false,
+  },
 
   // --- 洗濯 / 洗濯家電 ---
   {
@@ -655,22 +619,13 @@ export const data: Data[] = [
 
   // --- 洗濯 / 洗濯用品 ---
   {
-    name: "物干しラック",
-    price: 3000,
-    category: "洗濯用品",
-    retailer: "ホームセンター",
-    purchaseTiming: "now",
-    item: { name: "", url: "" },
-    prepared: false,
-  },
-  {
     name: "洗濯カゴ",
     price: 500,
     category: "洗濯用品",
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "洗濯ネット",
@@ -679,7 +634,7 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "洗濯洗剤",
@@ -688,7 +643,7 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "洗濯機バスタオルハンガー",
@@ -700,16 +655,16 @@ export const data: Data[] = [
       name: "ニトリ マグネット伸縮洗濯機バスタオルハンガー",
       url: "https://www.nitori-net.jp/ec/product/8530752s/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "洗濯機振動防止マット",
-    price: 1000,
+    price: 2000,
     category: "洗濯用品",
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
 
   // --- お風呂 / 入浴用品 ---
@@ -766,7 +721,7 @@ export const data: Data[] = [
     retailer: "ニトリ系",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "バスタオル・ハンドタオル",
@@ -786,7 +741,7 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
     memo: "柄が長いやつかつ、柄が縮むやつ",
   },
   {
@@ -796,7 +751,7 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
 
   // --- トイレ / トイレ用品 ---
@@ -825,7 +780,7 @@ export const data: Data[] = [
     retailer: "ニトリ系",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
 
   // --- トイレ / トイレ掃除 ---
@@ -839,7 +794,7 @@ export const data: Data[] = [
       name: "ニトリ 持ち運べる磁石収納トイレブラシ",
       url: "https://www.nitori-net.jp/ec/product/8530625s/",
     },
-    prepared: false,
+    prepared: true,
   },
   {
     name: "お掃除シート",
@@ -857,6 +812,6 @@ export const data: Data[] = [
     retailer: "ホームセンター",
     purchaseTiming: "now",
     item: { name: "", url: "" },
-    prepared: false,
+    prepared: true,
   },
 ] as const;
