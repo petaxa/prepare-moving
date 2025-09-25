@@ -146,7 +146,7 @@ export const data: Data[] = [
       url: "https://amzn.asia/d/fJTSLHV",
     },
     memo: "キッチントッププレートがいいっぽい",
-    prepared: false,
+    prepared: true,
   },
   {
     name: "キッチンマット",
